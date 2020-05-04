@@ -1,0 +1,85 @@
+@media only screen and (max-width: 768px) {
+ .getintouch{
+  width: 100%;
+ }
+
+ .signal{
+    text-align: center;
+ }
+
+  
+}
+.navbar{
+    
+}
+
+.about{
+    line-height:2rem;
+}
+
+.signal {
+    font-size: 15rem; 
+    color: #28a745;
+}
+
+.about2{
+    background-color:#F6F6F6;
+}
+.globe{
+    color: #28a745;
+    font-size: 15rem; 
+}
+.servicesicon{
+     color: #28a745;
+    font-size: 5rem; 
+}
+
+.portfolio{
+   
+}
+
+.testimonials{
+    padding: 4% 8%;
+}
+.carousel-item{
+    height: 130px;
+    font-size: 1.2rem;
+
+
+}
+
+.img-thumbnail{
+     background-color:#F6F6F6;
+}
+
+.carousel-indicators .active{
+    background-color:red;
+}
+
+#contact{
+    background-color:#F6F6F6;
+}
+
+.ficon{
+     font-size: 4rem;
+     color: white;
+}
+
+.fa-twitter:hover{
+ color: #5EAADE;
+}
+
+.fa-instagram:hover{
+    color:#BE3C94;
+}
+
+.fa-linkedin:hover{
+
+   color:#0073B0;
+}
+
+
+.fa-facebook-f:hover{
+    
+   color:#0073B0;
+}
